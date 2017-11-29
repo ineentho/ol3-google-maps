@@ -1,5 +1,5 @@
 {
-  "name": "ol3-google-maps",
+  "name": "@ineentho/olgm",
   "version": "0.16.0",
   "description": "OpenLayers 3 Google Maps integration library",
   "keywords": [

@@ -1,6 +1,6 @@
 {
-  "name": "olgm",
-  "version": "0.14.0",
+  "name": "@ineentho/olgm",
+  "version": "0.16.1",
   "description": "ol3-google-maps as ES2015 modules",
   "main": "index.js",
   "module": "index.js",
